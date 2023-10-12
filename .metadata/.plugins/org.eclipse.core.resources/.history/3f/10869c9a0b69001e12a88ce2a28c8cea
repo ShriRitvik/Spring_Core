@@ -1,0 +1,19 @@
+package com.Java_Based_Config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+//STEP 2
+
+@Configuration
+public class AppConfig {
+	
+	@Bean
+	public HelloWorld helloWorldBean() {
+		HelloWorld hw=new HelloWorld();
+		hw.setMessage("HELLO WORLD!");
+		return helloWorldBean;
+		
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.Bean_Factory_Interface;
+
+public class HelloWorldBeanFactroy {
+
+}

@@ -1,0 +1,15 @@
+package com.XML_Based_Config;
+
+public class HelloWorldXML {
+
+	
+	private String message;
+	
+	private void setMessage(String message) {
+		this.message=message;
+	}
+	
+	private void getMessage() {
+		System.out.println("My Message" +message);
+	}
+}

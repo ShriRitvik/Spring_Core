@@ -1,0 +1,7 @@
+What is a Spring Bean?
+This is a very simple question that is often overcomplicated. Usually, 
+Spring beans are Java objects that are managed by the Spring container.
+
+
+eg:HelloWorld.java
+

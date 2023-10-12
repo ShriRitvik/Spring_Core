@@ -1,0 +1,13 @@
+package com.XML_Based_Config.Spring_XML_Based_Config;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
