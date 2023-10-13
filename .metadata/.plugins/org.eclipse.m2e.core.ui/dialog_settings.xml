@@ -26,10 +26,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.DI.Setter_Injection.Spring_Dependency_Injection"/>
+			<item value="com.DI.Setter_Injection"/>
+			<item value="com.Spring_Depedency_Injection"/>
 		</list>
 		<list key="groupId">
+			<item value="com.DI.Setter_Injection"/>
+			<item value="com.Dependency_Injection"/>
 		</list>
 		<list key="artifactId">
+			<item value="Spring-Dependency-Injection"/>
+			<item value="Dependency-Injection"/>
+			<item value="Spring-Depedency-Injection"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
